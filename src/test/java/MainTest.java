@@ -11,6 +11,6 @@ public class MainTest {
 
     @Test
     void test1() {
-        assertTrue(!false);
+        assertTrue(false);
     }
 }
